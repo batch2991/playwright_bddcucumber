@@ -17,5 +17,9 @@ export class LoginPage extends BasePage
     {
         return this.page.locator(this.errormsg).textContent()
     }
+    async rememberpwd()
+    {
+        
+    }
    
 }
