@@ -20,4 +20,8 @@ export class CartPage extends BasePage
     {
         await this.page.locator(this.removebtn).click()
     }
+    async calcualtetotal()
+    {
+        
+    }
 }

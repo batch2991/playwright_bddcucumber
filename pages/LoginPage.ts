@@ -19,7 +19,7 @@ export class LoginPage extends BasePage
     }
     async rememberpwd()
     {
-        
+        console.log("hello")
     }
    
 }
