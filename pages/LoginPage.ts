@@ -21,5 +21,9 @@ export class LoginPage extends BasePage
     {
         console.log("hello")
     }
+     async resetpwd()
+    {
+        console.log("hello")
+    }
    
 }
